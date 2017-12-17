@@ -8,5 +8,6 @@ If you have any question about the project you can contact with me here diegosie
 Coming soon:
 - To talk with a chatbot to obtain other measures like max, min, humidity etc
 - Use our voice to talk with the chatbot
+- Obtain data from Watson API and show them on Excel
 
 Thx!
